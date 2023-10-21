@@ -16,6 +16,5 @@ $(document).ready(function(){
 
 function position(id){
   var card = document.getElementsByClassName('card')[id];
-  // card.style.transform = 'scale(1.5)';
   console.log(id)
 }
